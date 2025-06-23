@@ -1,4 +1,3 @@
-Absolutely, here's a polished and well-commented version of your script, ready to be shared on GitHub with a proper structure and documentation. I've also added a suggested `README.md` snippet to describe the project.
 
 ---
 
